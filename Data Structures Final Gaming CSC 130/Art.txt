@@ -1,0 +1,8 @@
+Art/f.png*f0
+Art/jamal.png*jamal
+Art/two.png*rightfoot
+Art/three.png*leftfoot
+Art/walls.png*walls
+Art/chicken.png*chicken
+Art/broccoli.png*broccoli
+Art/walltwo.png*walltwo
